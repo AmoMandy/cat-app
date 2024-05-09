@@ -1,14 +1,14 @@
-body{
+body {
     background-color: #E3B505;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.cat{
+.cat {
     background-color: #9DF7E5;
     margin: 0.5em;
     padding: 1em;
     border-radius: 1em;
-    border: 1px solid #9df7e5;
+    border: 1px solid #e00c1a;
     flex: 1;
 }
 
